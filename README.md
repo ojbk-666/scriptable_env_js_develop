@@ -1,0 +1,2 @@
+# scriptable_env_js_develop
+scriptable的文档JS版本，便于pc开发时的代码提示
